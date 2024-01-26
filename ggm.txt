@@ -1,1 +1,12 @@
 수정>저장>add>commit>push
+
+a b 협업
+1.a 콜라보레이더로 b 초대
+설정>콜라보레이터 선택>상대 id로 초대
+b 이메일 확인 후 수락하고 들어감
+빈폴더 만들고 open git bash here 선택
+git clone "주소"
+
+vs코드에서 열고 파일 열고 아무거나 쓰고 저장
+커밋 후 푸시
+a가 pull 받는다(3닷 메뉴 클릭 후 pull)
